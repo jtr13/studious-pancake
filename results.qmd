@@ -2,12 +2,6 @@
 
 ## First result
 
+This is the first result.
+
 ## Second result
-
-```{r}
-library(ggplot2)
-ggplot(iris, aes(Sepal.Length, Sepal.Width,
-                 color = Species)) +
-  geom_point()
-```
-
