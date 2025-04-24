@@ -3,6 +3,7 @@
 ## First result
 
 This is the first result.
+And it's the best result.
 
 ## Second result
 
