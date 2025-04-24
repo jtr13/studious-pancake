@@ -4,10 +4,4 @@
 
 ## Second result
 
-```{r}
-library(ggplot2)
-ggplot(iris, aes(Sepal.Length, Sepal.Width,
-                 color = Species)) +
-  geom_point()
-```
-
+This is the second result.
