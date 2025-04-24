@@ -18,6 +18,7 @@ book:
   repo-actions: [edit, issue]
   chapters:
     - index.qmd
+    - data.qmd
 
 
 format:
